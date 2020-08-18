@@ -1,0 +1,4 @@
+ User-agent: *
+ Disallow:
+ Allow: /
+ Sitemap: http://www.pages.drexel.edu/~my442/final/sitemap.html
